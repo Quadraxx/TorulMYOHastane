@@ -11,11 +11,12 @@
 
 Bu proje, bir hastane ortamındaki temel süreçleri yönetmek üzere, modern web teknolojileri ve güvenli veritabanı standartları kullanılarak geliştirilmiştir. Projenin ana hedefi, bir öğrenci projesinde **güvenlik, analiz ve tam işlevsellik (Full-Stack CRUD)** gösterimini birleştirmektir.
 
-### ⚙️ Temel Teknoloji Yığını (Tech Stack)
+<h3>⚙️ Temel Teknoloji Yığını (Tech Stack)</h3>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://imgshields.io/badge/Pygame-FF5A5F?style=for-the-badge&logo=pygame&logoColor=white" />
-  <img src="https://imgshields.io/badge/Data%20Analysis-Pandas%2FMatplotlib-000000?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pygame-FF5A5F?style=for-the-badge&logo=pygame&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-2E8B57?style=for-the-badge&logo=matplotlib&logoColor=white" />
 </p>
 
 <p align="center">
@@ -26,9 +27,11 @@ Bu proje, bir hastane ortamındaki temel süreçleri yönetmek üzere, modern we
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Security-Werkzeug-A80000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Design-Kurumsal%20Kimlik-5A5A5A?style=for-the-badge&logoColor=white" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Design-Kurumsal%20Kimlik-5A5A5A?style=for-the-badge&logoColor=white" />
+</p>
 | Kategori | Teknoloji | Kullanım Alanı |
 | :--- | :--- | :--- |
 | **Backend** | **Python (Flask)** | Uygulama mantığı, Routing (Yol atama) ve Veritabanı Yönetimi (ORM yerine manuel SQL). |
