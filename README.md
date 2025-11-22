@@ -32,6 +32,10 @@ Bu proje, bir hastane ortamındaki temel süreçleri yönetmek üzere, modern we
 <p align="center">
   <img src="https://img.shields.io/badge/Design-Kurumsal%20Kimlik-5A5A5A?style=for-the-badge&logoColor=white" />
 </p>
+
+
+
+
 | Kategori | Teknoloji | Kullanım Alanı |
 | :--- | :--- | :--- |
 | **Backend** | **Python (Flask)** | Uygulama mantığı, Routing (Yol atama) ve Veritabanı Yönetimi (ORM yerine manuel SQL). |
